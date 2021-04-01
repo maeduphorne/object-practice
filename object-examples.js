@@ -13,3 +13,11 @@ var animal = {
   disposition: "friendly",
   age: 2
 }
+
+var customer = {
+  name: "karen",
+  age: 40,
+  disposition: "prickly",
+  managerConversations: 10,
+  welcomeBack: false
+}
